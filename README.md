@@ -1,6 +1,14 @@
 # ReactJS - Módulo 3
 
+GitHub Favorite Application using Redux, Redux-Saga, Ducks, Reactotron and React Router
+
 ## Índice
+
+- [Telas](#telas)
+
+  - [Principal](#principal)
+
+- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -13,6 +21,17 @@
   - [Bibliotecas](#bibliotecas)
 
   - [Outras Ferramentas](#outras-ferramentas)
+
+## Telas
+
+### Principal
+
+![Main](/assets/main.png)
+Esta é a única tela, onde encontram-se todos os repositórios do GitHub que o usuário pesquisar na caixa de texto.
+
+## Rotas
+
+- Busca um repositório do GitHub
 
 ## Desenvolvimento
 
