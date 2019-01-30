@@ -81,4 +81,4 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Outras Ferramentas
 
-- [Reactotron](https://github.com/osvaldokalvaitir/projects-settings/blob/master/inspectors/reactotron.md)
+- [Reactotron](https://github.com/osvaldokalvaitir/projects-settings/blob/master/inspector/reactotron.md)
