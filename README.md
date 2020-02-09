@@ -38,7 +38,7 @@ Aplicação GitHub Favorite usando Redux, Redux-Saga, Ducks, Reactotron e React 
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a única tela, onde encontram-se todos os repositórios do GitHub que o usuário pesquisar na caixa de texto.
 
 ## Desenvolvimento
